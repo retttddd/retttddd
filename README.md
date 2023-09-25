@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-GOLANG developer. Here I sahre my progress and some usefull things which can help the comunity  🌱 Currently searching for work and open to new opportunities 🌱
+GOLANG/Java developer. Here I sahre my progress and some usefull things which can help the comunity  🌱 Currently searching for work and open to new opportunities 🌱
 
 
 ## 🔗 Links
